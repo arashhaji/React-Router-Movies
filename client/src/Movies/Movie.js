@@ -52,6 +52,7 @@ const Movie = props => {
         ))}
       </div>
       <div className="save-button">Save</div>
+      
     </div>
   );
 };
